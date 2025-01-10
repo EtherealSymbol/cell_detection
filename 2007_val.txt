@@ -1,0 +1,11 @@
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/213.jpg 26,39,37,49,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/225.jpg 26,28,36,38,0 77,62,87,71,0 5,41,14,53,0 15,71,25,87,0 50,73,58,82,0 39,64,49,73,0 25,67,38,76,0 25,56,35,66,0 18,47,28,56,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/268.jpg 35,32,46,42,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/341.jpg 25,23,34,32,0 21,35,30,45,0 36,41,44,51,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/482.jpg 8,22,18,32,0 17,32,26,39,0 22,38,30,47,0 14,46,24,54,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/494.jpg 6,28,17,38,0 18,41,28,50,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/512.jpg 33,33,43,43,0 40,7,52,19,0 14,37,23,46,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/515.jpg 30,23,42,34,0 16,18,27,27,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/567.jpg 37,29,51,42,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/68.jpg 25,36,36,46,0
+D:\yinwu_program\cell_detection\VOCdevkit/VOC2007/JPEGImages/77.jpg 17,9,33,26,0 29,42,36,50,0
