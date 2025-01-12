@@ -1,0 +1,7 @@
+hat_clothes
+nohat_noclothes
+hat_noclothes
+nohat_clothes
+smoke
+fire
+phone
