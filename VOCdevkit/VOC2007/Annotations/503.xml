@@ -1,0 +1,26 @@
+<annotation>
+	<folder>small</folder>
+	<filename>503.jpg</filename>
+	<path>D:\yinwu_program\cell_detection\crop_img\small\503.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>63</width>
+		<height>64</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>39</ymin>
+			<xmax>42</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>
